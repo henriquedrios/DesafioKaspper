@@ -1,0 +1,18 @@
+.rouded-circle{
+    width: 230px;
+    height: 230px;
+    margin-top: 15px;
+   border-radius: 200px;
+    margin-left: 18% ;
+}
+
+.card{
+    height: 390px;
+}
+
+#carouselExampleCaptions{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10%;
+
+}
